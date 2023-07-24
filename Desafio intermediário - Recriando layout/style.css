@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500;700&family=Open+Sans:wght@400;700&display=swap');
+
+.apresentacao {
+  text-align: center;
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+  margin: 64px auto 0;
+}
+
+#apresentacao__logo {
+  margin: 0 auto 32px;
+}
+
+.apresentacao__titulo {
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  margin: 0 auto 16px;
+}
+
+.apresentacao__titulo span {
+  color: #EE24FF;
+  font-weight: 700;
+}
+
+.apresentacao__parte1 {
+  width: 570px;
+  height: 107px;
+  margin: 0 auto 32px;
+}
+
+.apresentacao__parte1 span {
+  color: #3F3D56;
+  font-weight: 700;
+}
+
+#flutuar {
+  color: #828282;
+  font-weight: 700;
+}
+
+.apresentacao__parte2 {
+  width: 626px;
+  height: 21px;
+  margin: 0 auto 64px;
+}
+
+.apresentacao__line {
+  width: 391px;
+  height: 1px;
+  background: #ECEFF2;
+  margin: 0 auto 16px;
+}
+
+.apresentacao__links{
+  color: #3F3D56;
+  font-weight: 700;
+  margin: 0 21px;
+}
